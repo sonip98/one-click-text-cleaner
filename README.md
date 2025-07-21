@@ -4,6 +4,20 @@ A simple, clean, and fast web tool built with **Next.js**, designed to help user
 
 ---
 
+## 🖼️ Screenshots
+
+### ✨ One-Click Cleaner Interface
+
+![Cleaner UI](./apps/web/public/images/screenshot-landing-ui.png)
+
+---
+
+### 🔄 Before & After Example
+
+![Before After](./apps/web/public/images/screenshot-cleaner-ui.png)
+
+---
+
 ### 🚀 Features
 
 * ✅ Remove line breaks and extra spaces
