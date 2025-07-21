@@ -21,9 +21,9 @@ export default function TextCleanerPage() {
     setOutput(cleaned)
   }
 
-  const handleChange = (key: keyof CleanOptions, value: any) => {
+  const handleChange = <K extends keyof CleanOptions>(key: K, value: CleanOptions[K]) => {
     setOptions((prev) => ({ ...prev, [key]: value }))
-  }
+  }  
 
   return (
     <div className="min-h-screen flex flex-col">

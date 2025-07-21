@@ -99,7 +99,7 @@ Text cleaning logic is located in `packages/utils/cleaner.ts` and supports vario
 ### 📦 Build for Production
 
 ```bash
-pnpm build --filter web
+pnpm build
 ```
 
 ---
