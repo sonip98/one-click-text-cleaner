@@ -69,7 +69,7 @@ pnpm install
 #### 3. Run the App
 
 ```bash
-pnpm dev --filter web
+pnpm dev
 ```
 
 Then open [http://localhost:3000](http://localhost:3000)
